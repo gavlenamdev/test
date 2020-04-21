@@ -11,6 +11,8 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
       "stickers": [
         {
           "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
@@ -55,6 +57,8 @@
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
       "stickers": [
         {
           "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
@@ -100,6 +104,7 @@
        "publisher": "Prabha",
       "license_agreement_website": "",
       "privacy_policy_website": "",
+      "avoid_cache": false,
       "stickers": [
         {
           "image_file": "https://raw.githubusercontent.com/gnaam/test/master/gm1/gm-3.webp",
@@ -145,6 +150,7 @@
       "name": "Good Night 1.0",
       "image_data_version": "1",
       "publisher_website": "",
+      "avoid_cache": false,
       "stickers": [
         {
           "image_file": "https://raw.githubusercontent.com/gnaam/test/master/gn1/gn-3.webp",
